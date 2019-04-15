@@ -1,0 +1,2 @@
+# Test
+Test amaçlı yapılmıştır.
